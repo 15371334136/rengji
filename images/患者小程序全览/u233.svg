@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="47px" height="47px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 1024 0  L 1024 1024  L 0 1024  Z " fill-rule="evenodd" fill="black" id="path163" />
-    <clipPath id="clip164">
-      <use xlink:href="#path163" />
+    <path d="M 0 0  L 1024 0  L 1024 1024  L 0 1024  Z " fill-rule="evenodd" fill="black" id="path35" />
+    <clipPath id="clip36">
+      <use xlink:href="#path35" />
     </clipPath>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter165">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter37">
       <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
-    <filter x="1725px" y="785px" width="47px" height="47px" filterUnits="userSpaceOnUse" id="filter166">
+    <filter x="1725px" y="785px" width="47px" height="47px" filterUnits="userSpaceOnUse" id="filter38">
       <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
     </filter>
-    <g id="widget167">
-      <g transform="matrix(0.0361328125 0 0 0.0361328125 1730 790 )" clip-path="url(#clip164)" filter="url(#filter165)">
+    <g id="widget39">
+      <g transform="matrix(0.0361328125 0 0 0.0361328125 1730 790 )" clip-path="url(#clip36)" filter="url(#filter37)">
         <path d="M522.24 522.24m-427.52 0a427.52 427.52 0 1 0 855.04 0 427.52 427.52 0 1 0-855.04 0Z" fill="#FFFFFF" p-id="21369"></path>
         <path d="M521.216 91.136c-238.592 0-432.128 193.536-432.128 432.128 0 238.592 193.536 432.128 432.128 432.128 238.592 0 432.128-193.536 432.128-432.128 0.512-238.592-193.024-432.128-432.128-432.128z m283.648 714.752c-36.864-83.456-109.568-146.944-198.656-171.52 54.272-29.696 91.136-87.552 91.136-154.112 0-97.28-78.848-176.128-176.128-176.128S345.088 382.976 345.088 480.256c0 68.096 38.4 126.976 95.232 156.16-88.576 26.112-160.256 91.648-195.072 176.128-76.288-72.704-124.416-175.616-124.416-289.28 0-221.184 179.2-400.384 400.384-400.384S921.6 302.08 921.6 523.264c0 110.592-44.544 210.432-116.736 282.624z" fill="#1296db" p-id="21370" data-spm-anchor-id="a313x.7781069.0.i33" class="selected"></path>
       </g>
     </g>
   </defs>
   <g transform="matrix(1 0 0 1 -1725 -785 )">
-    <use xlink:href="#widget167" filter="url(#filter166)" />
-    <use xlink:href="#widget167" />
+    <use xlink:href="#widget39" filter="url(#filter38)" />
+    <use xlink:href="#widget39" />
   </g>
 </svg>
