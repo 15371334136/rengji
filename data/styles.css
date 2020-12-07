@@ -105,6 +105,9 @@
 }
 .ellipse1 {
 }
+.image {
+  color:#000000;
+}
 .box_11 {
 }
 textarea, select, input, button { outline: none; }
