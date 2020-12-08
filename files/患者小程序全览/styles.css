@@ -982,7 +982,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:79px;
+  width:107px;
   height:21px;
   background:inherit;
   background-color:rgba(242, 242, 242, 0.513725490196078);
@@ -995,9 +995,9 @@
 #u32 {
   border-width:0px;
   position:absolute;
-  left:410px;
+  left:382px;
   top:115px;
-  width:79px;
+  width:107px;
   height:21px;
   display:flex;
 }
@@ -1019,7 +1019,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:44px;
+  width:56px;
   height:21px;
   background:inherit;
   background-color:rgba(242, 242, 242, 0.513725490196078);
@@ -1032,9 +1032,9 @@
 #u33 {
   border-width:0px;
   position:absolute;
-  left:411px;
+  left:382px;
   top:115px;
-  width:44px;
+  width:56px;
   height:21px;
   display:flex;
 }
@@ -1071,7 +1071,7 @@
 #u34 {
   border-width:0px;
   position:absolute;
-  left:419px;
+  left:396px;
   top:116px;
   width:26px;
   height:17px;
@@ -1096,7 +1096,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:26px;
+  width:46px;
   height:17px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1111,9 +1111,9 @@
 #u35 {
   border-width:0px;
   position:absolute;
-  left:457px;
+  left:439px;
   top:116px;
-  width:26px;
+  width:46px;
   height:17px;
   display:flex;
   font-size:13px;
@@ -2796,7 +2796,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -2808,7 +2808,7 @@
   width:56px;
   height:19px;
   display:flex;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -3083,7 +3083,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -3095,7 +3095,7 @@
   width:56px;
   height:19px;
   display:flex;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -3370,7 +3370,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -3382,7 +3382,7 @@
   width:56px;
   height:19px;
   display:flex;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -3620,7 +3620,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
@@ -3632,7 +3632,7 @@
   width:56px;
   height:19px;
   display:flex;
-  font-family:'微軟正黑體 Bold', '微軟正黑體';
+  font-family:'微軟正黑體 Bold', '微軟正黑體 Regular', '微軟正黑體';
   font-weight:700;
   font-style:normal;
 }
